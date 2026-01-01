@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Hypr Control
+Comment=Configure Hyprland input settings
+Exec=/home/torch/.local/bin/hypr-control
+Icon=preferences-desktop-peripherals
+Terminal=false
+Type=Application
+Categories=Settings;HardwareSettings;
+Keywords=hyprland;input;mouse;keyboard;touchpad;
