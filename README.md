@@ -1,5 +1,7 @@
 # Hypr Control
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A GTK4/Libadwaita control center for Hyprland input settings. Configure your mouse, keyboard, touchpad, and gestures with a modern, native UI.
 
 ## Features
