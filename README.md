@@ -20,10 +20,6 @@ A GTK4/Libadwaita control center for Hyprland input settings. Configure your mou
 ### Synchronization
 The application automatically **syncs with your current Hyprland configuration** on startup.
 
-## Screenshots
-![Main Interface](assets/hypr_control_demo_1767294906912.webp)
-![Layout Selection](assets/layout_selection_test_1767295525632.webp)
-
 ## Installation
 
 ### Dependencies
